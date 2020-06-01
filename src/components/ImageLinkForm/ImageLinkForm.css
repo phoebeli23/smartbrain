@@ -1,0 +1,5 @@
+.form {
+    width: 700px;
+    background-color: linear-gradient(to right, rgb(178, 255, 228), rgb(255, 161, 151));
+    background-size: 64px 128px;
+}
